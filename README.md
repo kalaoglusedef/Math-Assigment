@@ -1,7 +1,7 @@
 
-#Math Assigment
+# Math Assigment
 
-##DEMO
+## DEMO
 
  *Here's how it looks in Vercel:* [Vercel](https://math-assigment.vercel.app/) 
 
